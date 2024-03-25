@@ -48,10 +48,6 @@
 <h2>Limitations and Development</h2>
     <p>This prototype is an initial step towards real-time tumour detection. It has limitations and is currently optimized for specific scenarios. Further development, testing, and validation with medical professionals are necessary to enhance its accuracy and usability in practical applications.</p>
     
-<h2>Contributing</h2>
-    <p>We welcome contributions, including improvements to the detection algorithm, performance optimizations, and compatibility enhancements. Please feel free to fork the repository, make your changes, and submit a pull request.</p>
-    
-<h2>License</h2>
-    <p>This project is open-source and available under the MIT License. Please see the LICENSE file for full details.</p>
+
 </body>
 </html>
